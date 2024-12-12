@@ -7,14 +7,13 @@ This GitHub profile serves as my portfolio and playground, where I document my l
 
 ## Skills
 
-## Skills
-
-| **Frontend/Backend**  | **Databases & Tools**  |
-|-----------------------|------------------------|
-| Python                | SQL                    |
-| Django                | SQLite3                |
-| FastAPI               | Power BI               |
-| Core Java             |                        |
+- **Python**
+- **Django**
+- **FastAPI**
+- **Core Java**
+- **SQL**
+- **SQLite3**
+- **Power BI**
 
 
 ### Machine Learning:
