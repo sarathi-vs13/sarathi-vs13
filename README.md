@@ -5,7 +5,7 @@ This GitHub profile serves as my portfolio and playground, where I document my l
 
 ## 🚀 Skills
 
-## Skills
+<!-- ## Skills -->
 
 - **Python**
 - **Django**
