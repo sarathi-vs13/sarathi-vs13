@@ -7,13 +7,23 @@ This GitHub profile serves as my portfolio and playground, where I document my l
 
 ## Skills
 
-- **Python**
-- **Django**
-- **FastAPI**
-- **Core Java**
-- **SQL**
-- **SQLite3**
-- **Power BI**
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div>
+    <ul>
+      <li><strong>Python</strong></li>
+      <li><strong>Django</strong></li>
+      <li><strong>FastAPI</strong></li>
+      <li><strong>Core Java</strong></li>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li><strong>SQL</strong></li>
+      <li><strong>SQLite3</strong></li>
+      <li><strong>Power BI</strong></li>
+    </ul>
+  </div>
+</div>
 
 
 ### Machine Learning:
