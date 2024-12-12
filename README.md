@@ -38,7 +38,6 @@ Check out my repositories to explore the projects I’ve worked on and continue 
 
 ## 📫 How to Reach Me:
 - **Email**: [vj.sarathi13@gmail.com]
-- 
 <!--- **LinkedIn**: [LinkedIn Profile Link]
 - **Twitter**: [Twitter Handle] -->
 
