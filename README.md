@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Vijay Sarathi]
+# Hi there! 👋 I'm Vijay Sarathi
 
 I'm currently working as an Associate. My curiosity and commitment to continuous learning has driven me to pivot my career into tech . I'm keen on upskilling every day, and this journey has led me to explore the world of Python, Machine Learning and AI.
 This GitHub profile serves as my portfolio and playground, where I document my learnings and showcase the projects I've built. Feel free to explore my repositories to see the skills I've acquired and the projects I'm working on!
