@@ -1,44 +1,46 @@
 # Hi there! 👋 I'm Vijay Sarathi
 
-I'm currently working as an Associate. My curiosity and commitment to continuous learning has driven me to pivot my career into tech . I'm keen on upskilling every day, and this journey has led me to explore the world of Python, Machine Learning and AI.
-This GitHub profile serves as my portfolio and playground, where I document my learnings and showcase the projects I've built. Feel free to explore my repositories to see the skills I've acquired and the projects I'm working on!
+I'm an Associate at Amazon with a strong curiosity and commitment to continuous learning. My journey has led me to pivot into tech, exploring Python, Machine Learning, AI, and full-stack development. This GitHub is my portfolio and playground, where I document my learnings, showcase projects, and experiment with new technologies.
+
+---
 
 ## 🚀 Skills
 
-<!-- ## Skills -->
+### Programming & Development
+- **Languages:** Python, Core Java, SQL
+- **Web Frameworks:** Django, FastAPI
+- **Databases:** SQLite3, SQL
+- **Data Visualization:** Power BI
 
-- **Python**
-- **Django**
-- **FastAPI**
-- **Core Java**
-- **SQL**
-- **SQLite3**
-- **Power BI**
+### Machine Learning & AI
+- **Supervised Learning:** Linear Regression, Logistic Regression, Decision Trees, Random Forest
+- **Unsupervised Learning:** K-Means Clustering
+- **Deep Learning:** CNN, NLP, Transformers
+- **Tools & Libraries:** Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Hugging Face Transformers
 
+### Other Tools
+- Git & GitHub
+- Docker
+- REST APIs
 
-### Machine Learning:
-- **Supervised Learning**: 
-  - Linear Regression
-  - Logistic Regression
-  - Decision Trees
-  - Random Forest
-- **Unsupervised Learning**: 
-  - K-Means Clustering
-
-### Tools & Technologies:
-- Jupyter Notebooks
-- Pandas, Numpy, Matplotlib, Seaborn
-- Scikit-learn
+---
 
 ## 📈 Current Focus
-I'm diving deeper into machine learning algorithms and AI technologies to become an AI/ML developer. Exploring advanced techniques and building real-world applications to enhance my skills.
 
-## 📂 Projects
-Check out my repositories to explore the projects I’ve worked on and continue to learn through hands-on coding. This is where I apply all the concepts I learn, experiment with new ideas, and challenge myself to solve problems.
+- Building end-to-end projects with **Python, Django, FastAPI, and Machine Learning**.  
+- Diving deeper into **Deep Learning, NLP, and AI models**.  
+- Exploring **AI-driven applications** for real-world problems like emotion detection, face authentication, and automation.
 
-## 📫 How to Reach Me:
-- **Email**: [vj.sarathi13@gmail.com]
-<!--- **LinkedIn**: [LinkedIn Profile Link]
-- **Twitter**: [Twitter Handle] -->
+---
 
-Feel free to reach out and connect with me!
+
+Check out my repositories to explore all projects in detail!
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:** [vj.sarathi13@gmail.com](mailto:vj.sarathi13@gmail.com)  
+- **LinkedIn:** [www.linkedin.com/in/vijay-sarathi-5aa784343] 
+
+Feel free to connect and collaborate!
